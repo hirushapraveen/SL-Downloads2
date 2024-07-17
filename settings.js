@@ -11,7 +11,7 @@ const FOOTERNAME = '> S L - D O W N L O A D S';
 global.owner = process.env.OWNER_NUMBER  || '94754431282' ;  // ADD YOUR NUMBER WITHOUT +
     
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || 'youre session id' ,
+SESSION_ID: process.env.SESSION_ID || 'VAJIRA-MD=zQdgXBDA#9rK3Kli2aIuDkuzAoitajp20n8n3g5NWc9F4a4p8_30' ,
 travaSend: process.env.TRAVA_SEND || '25' ,   
 MODERATORS : process.env.MODERATORS === undefined ? "94754431282" : process.env.MODERATORS ,    
 MAX_SIZE: process.env.MAX_SIZE === undefined ? '1536': process.env.MAX_SIZE,/*add this in megabytes*/    
